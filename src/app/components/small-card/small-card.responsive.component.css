@@ -1,0 +1,10 @@
+@media screen and (max-width: 400px) {
+  .container__small-card {
+    display: flex;
+    flex-direction: column;
+  }
+  .container__small-card-content {
+    display: flex;
+    flex-direction: column;
+  }
+}
