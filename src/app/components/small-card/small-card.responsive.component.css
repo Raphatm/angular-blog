@@ -8,4 +8,9 @@
     display: flex;
     flex-direction: column;
   }
+  .small-card__photo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 }

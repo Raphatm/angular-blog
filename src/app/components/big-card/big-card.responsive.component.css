@@ -1,0 +1,13 @@
+@media screen and (max-width: 450px) {
+  .container__big-card {
+    /* border-radius: 5px; */
+    /* margin-right: 10px; */
+    margin-left: 10px;
+    /* width: 412px; */
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}
